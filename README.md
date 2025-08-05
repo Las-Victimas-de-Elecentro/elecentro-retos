@@ -57,9 +57,9 @@ git push
 O usa la interfaz gráfica de VSCode. Como prefieras ✨
 
 5. **Envía tu Pull Request (PR)**  
-   Ve al tu repo (el de tu fork) en GitHub. Haz clic en **Contribute** y selecciona **Open pull request**. Describe brevemente tus cambios y envía la PR para que sea revisada.
+   Ve a tu repo (el de tu fork) en GitHub. Haz clic en **Contribute** y selecciona **Open pull request**. Describe brevemente tus cambios y envía la PR para que sea revisada.
 
-![boton de pull reques](./images/pull-request-button.png)
+![boton de pull request](./images/pull-request-button.png)
 
 ## Consejos adicionales
 
