@@ -11,6 +11,7 @@ const myName = 'Ricardo'
 const myStr = 'Esta es una string'
 const myInt = 3
 const myFloat = 3.45
+const PI = 3.14
 const myBool = true
 const myUndefined = undefined
 
