@@ -10,7 +10,7 @@ Bien, muchachos. ¡Se acabo el descanso! ¡A chambear!
 Lo primero... ¿Ya han elegido un lenguaje?
 - Cada lenguaje tiene lo suyo, pero en general parten de los mismos fundamentos.
 - Este primer reto nos servirá para familiarizarnos con la forma de colaborar en
-este hermoso repo y adentrarnos en el camino de la cabritud (sí es una palabra real).
+este hermoso repo y adentrarnos en el camino de la cabritud (sí, es una palabra real).
 
 EJERCICIO:
 - Crea un comentario en el código y coloca la URL del sitio web oficial del
