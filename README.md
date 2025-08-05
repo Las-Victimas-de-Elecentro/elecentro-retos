@@ -5,49 +5,67 @@
 
 ¡Víctimas de Elecentro!
 
-Hoy los invitamos a embarcarse en una aventura que no solo transformará su manera de pensar, sino que los llevará a ser las verdaderas CABRAS del código (los más duros de los duros entre los duros). ¿Por qué conformarse con ser buenos cuando pueden ser los mejores?
+Los invitamos a embarcarse en una aventura que transformará su manera de pensar y los llevará a ser verdaderas CABRAS del código. ¿Por qué conformarse con ser buenos cuando pueden ser los mejores?
 
-El camino hacia la grandeza comienza con un solo paso: aprender un lenguaje de programación desde cero y dominarlo semana a semana a través de ejercicios que, poco a poco, se vuelven más desafiantes. Cada reto semanal no solo pondrá a prueba su lógica y creatividad, sino que fortalecerá su mente para resolver problemas complejos y reales.
+El camino comienza aprendiendo un lenguaje de programación desde cero y dominándolo semana a semana con ejercicios cada vez más desafiantes. Cada reto pondrá a prueba su lógica y creatividad, fortaleciendo su mente para resolver problemas reales.
 
-No se trata solo de memorizar códigos, sino de entender, experimentar, equivocarse y mejorar. Esa es la mentalidad de un verdadero GOAT: la constancia, la resiliencia y el hambre de superarse. Con cada línea de código que escriban, estarán construyendo no solo programas, sino su propio camino hacia la maestría.
+No se trata solo de memorizar código, sino de entender, experimentar, equivocarse y mejorar. La mentalidad GOAT es constancia, resiliencia y ganas de superarse. Con cada línea de código, estarán construyendo su propio camino hacia la maestría.
 
-Recuerden: las cabras no nacen sino que se hacen, y se hacen trabajando duro, enfrentando dificultades y nunca dejando de avanzar. La progresión semanal les dará la estructura y la motivación para que cada dificultad sea un peldaño más hacia la cima.
+Recuerden: las cabras se hacen trabajando duro y enfrentando dificultades. La progresión semanal les dará estructura y motivación para avanzar hacia la cima.
 
-Así que prepárense, porque está a punto de comenzar su transformación. ¡Vamos a codear, a crecer y a convertirnos en las CABRAS indiscutibles de la programación!
+Prepárense, porque está por comenzar su transformación. ¡Vamos a codear, crecer y convertirnos en las CABRAS indiscutibles de la programación!
 
-¿Están listos para ser leyendas? ¡Entonces demos el primer paso juntos!
+¿Listos para ser leyendas? ¡Demos el primer paso juntos!
 
 ## Guia para contribuir a los ejercicios
+Para contribuir a los ejercicios, sigue estos pasos:
 
-Lo primero es hacer un fork de este repositorio dando click en el siguiente botón. Esto creará una copia del repo en tu cuenta de GitHub.
+1. **Haz un fork del repositorio**  
+  Haz clic en el botón de fork para crear una copia en tu cuenta de GitHub. Está arriba:
+  ![boton de fork](./images/fork-button.png)
 
-![botón de fork](./images/fork-button.png)
+2. **Clona tu fork en tu computadora**  
+  Puedes hacerlo desde VSCode (usando la pantalla de bienvenida, la paleta de comandos, o la integración de Git) o desde la terminal con el siguiente comando:
 
-A partir de aqui debes clonar el repo en tu compu para poder editarlo en local. A continuación explicaré dos métodos, uno con VSCode y otro con la terminal.
+  ```bash
+  git clone https://github.com/TU_USUARIO/elecentro-retos.git
+  ```
 
-### Con VSCode
+  Asegúrate de clonar **tu fork**, no el repositorio original.
 
-Abre Visual Studio Code (VSCode). Puedes clonar un repo desde la pantalla de bienvenida:
+3. **Realiza tus cambios**  
+  Edita los archivos y resuelve los ejercicios. Cuando termines, guarda los cambios con un commit:
 
-![clonar en pantalla de bienvenida](./images/vscode-1.png)
+  ```bash
+  git add .
+  git commit -m "Agrego mi solución al reto X"
+  ```
 
-O utilizar la paleta de comandos con `ctrl+shift+tab`:
+  También puedes usar la interfaz gráfica de VSCode por si no te gusta la terminal 😉
 
-![clonar con paleta de comandos](./images/vscode-2.png)
+4. **Sincroniza tus cambios con GitHub**  
+  Haz push para subir tus cambios a tu fork:
 
-O incluso desde la integracion con Git del editor:
+  ```bash
+  git push
+  ```
 
-![clonar con integracion](./images/vscode-3.png)
+  O usa la interfaz gráfica de VSCode. Como prefieras ✨
 
-Recuerda que debes clonar el fork que está en tu cuenta, no el repo original. Para Ric el viejo sería así, por ejemplo: https://github.com/RicJDev/elecentro-retos
+5. **Envía tu Pull Request (PR)**  
+  Ve al tu repo (el de tu fork) en GitHub. Haz clic en **Contribute** y selecciona **Open pull request**. Describe brevemente tus cambios y envía la PR para que sea revisada.
+  ![boton de pull reques](./images/pull-request-button.png)
 
-Cuando termines, guarda los cambios haciendo **commit**.
+---
 
-Sincroniza los cambios con tu repositorio en GitHub usando **push** (o "sincronizar cambios" en VSCode).
+## Consejos adicionales
 
-### Con la terminal (altos hackers 😎)
+- Si tienes dudas, pregunta. Somos un equipo y entre todos nos apoyamos.
+- No temas equivocarte: cada error es una oportunidad para aprender.
+- Sé claro en tus commits y PRs, así será más fácil revisar tu aporte.
 
-### Haciendo la PR
+---
 
+¡Gracias por contribuir! Juntos, vamos a crecer como programadores y a convertirnos en verdaderas CABRAS del código.
 Ve a la página original del repositorio en GitHub. Allí, haz clic en el botón **Contribute** y luego selecciona **Open pull request** para enviar tus cambios y que puedan ser revisados e integrados en el repositorio principal.
 
