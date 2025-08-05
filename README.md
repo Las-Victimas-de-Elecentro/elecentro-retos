@@ -37,6 +37,7 @@ Asegúrate de clonar **tu fork**, no el repositorio original.
 
 3. **Realiza tus cambios**  
    Edita los archivos y resuelve los ejercicios. Recuerda que el fichero de tu solución debe estar en carpeta del ejercicio y dentro de una carpeta con el nombre del lenguaje de programación utilizado en minúsculas. *(Ej: retos/00-hola-mundo/python/ricjdev.py)*
+
     Cuando termines, guarda los cambios con un commit:
 
 ```bash
