@@ -14,8 +14,6 @@ Así que prepárense, porque está a punto de comenzar su transformación. ¡Vam
 
 ¿Están listos para ser leyendas? ¡Entonces demos el primer paso juntos!
 
----
-
 ## Guia para contribuir a los ejercicios
 
 Lo primero es hacer un fork de este repositorio dando click en el siguiente botón. Esto creará una copia del repo en tu cuenta de GitHub.
