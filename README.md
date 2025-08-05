@@ -1,4 +1,7 @@
-# Retos de programacion de Las Victimas de Elecentro
+<div align="center">
+  <img src="./images/logo.jpg" width = 450>
+  <h1>Retos de programacion de Las Victimas de Elecentro</h1>
+</div>
 
 ¡Víctimas de Elecentro!
 
