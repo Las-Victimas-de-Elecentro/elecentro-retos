@@ -22,6 +22,7 @@ Para contribuir a los ejercicios, sigue estos pasos:
 
 1. **Haz un fork del repositorio**  
   Haz clic en el botón de fork para crear una copia en tu cuenta de GitHub. Está arriba:
+  
   ![boton de fork](./images/fork-button.png)
 
 2. **Clona tu fork en tu computadora**  
@@ -54,9 +55,8 @@ Para contribuir a los ejercicios, sigue estos pasos:
 
 5. **Envía tu Pull Request (PR)**  
   Ve al tu repo (el de tu fork) en GitHub. Haz clic en **Contribute** y selecciona **Open pull request**. Describe brevemente tus cambios y envía la PR para que sea revisada.
-  ![boton de pull reques](./images/pull-request-button.png)
 
----
+  ![boton de pull reques](./images/pull-request-button.png)
 
 ## Consejos adicionales
 
