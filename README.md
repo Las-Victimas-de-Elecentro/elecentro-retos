@@ -18,45 +18,48 @@ Prepárense, porque está por comenzar su transformación. ¡Vamos a codear, cre
 ¿Listos para ser leyendas? ¡Demos el primer paso juntos!
 
 ## Guia para contribuir a los ejercicios
+
 Para contribuir a los ejercicios, sigue estos pasos:
 
 1. **Haz un fork del repositorio**  
-  Haz clic en el botón de fork para crear una copia en tu cuenta de GitHub. Está arriba:
-  
-  ![boton de fork](./images/fork-button.png)
+   Haz clic en el botón de fork para crear una copia en tu cuenta de GitHub. Está arriba:
+
+![boton de fork](./images/fork-button.png)
 
 2. **Clona tu fork en tu computadora**  
-  Puedes hacerlo desde VSCode (usando la pantalla de bienvenida, la paleta de comandos, o la integración de Git) o desde la terminal con el siguiente comando:
+   Puedes hacerlo desde VSCode (usando la pantalla de bienvenida, la paleta de comandos, o la integración de Git) o desde la terminal con el siguiente comando:
 
-  ```bash
-  git clone https://github.com/TU_USUARIO/elecentro-retos.git
-  ```
+```bash
+git clone https://github.com/TU_USUARIO/elecentro-retos.git
+```
 
-  Asegúrate de clonar **tu fork**, no el repositorio original.
+Asegúrate de clonar **tu fork**, no el repositorio original.
 
 3. **Realiza tus cambios**  
-  Edita los archivos y resuelve los ejercicios. Cuando termines, guarda los cambios con un commit:
+   Edita los archivos y resuelve los ejercicios. Recuerda que el fichero de tu solución debe estar en carpeta del ejercicio y dentro de una carpeta con el nombre del lenguaje de programación utilizado en minúsculas. *(Ej: retos/00-hola-mundo/python/ricjdev.py)*
 
-  ```bash
-  git add .
-  git commit -m "Agrego mi solución al reto X"
-  ```
+    Cuando termines, guarda los cambios con un commit:
 
-  También puedes usar la interfaz gráfica de VSCode por si no te gusta la terminal 😉
+```bash
+git add .
+git commit -m "Agrego mi solución al reto X"
+```
+
+También puedes usar la interfaz gráfica de VSCode por si no te gusta la terminal 😉
 
 4. **Sincroniza tus cambios con GitHub**  
-  Haz push para subir tus cambios a tu fork:
+   Haz push para subir tus cambios a tu fork:
 
-  ```bash
-  git push
-  ```
+```bash
+git push
+```
 
-  O usa la interfaz gráfica de VSCode. Como prefieras ✨
+O usa la interfaz gráfica de VSCode. Como prefieras ✨
 
 5. **Envía tu Pull Request (PR)**  
-  Ve al tu repo (el de tu fork) en GitHub. Haz clic en **Contribute** y selecciona **Open pull request**. Describe brevemente tus cambios y envía la PR para que sea revisada.
+   Ve a tu repo (el de tu fork) en GitHub. Haz clic en **Contribute** y selecciona **Open pull request**. Describe brevemente tus cambios y envía la PR para que sea revisada.
 
-  ![boton de pull reques](./images/pull-request-button.png)
+![boton de pull request](./images/pull-request-button.png)
 
 ## Consejos adicionales
 
@@ -67,5 +70,3 @@ Para contribuir a los ejercicios, sigue estos pasos:
 ---
 
 ¡Gracias por contribuir! Juntos, vamos a crecer como programadores y a convertirnos en verdaderas CABRAS del código.
-Ve a la página original del repositorio en GitHub. Allí, haz clic en el botón **Contribute** y luego selecciona **Open pull request** para enviar tus cambios y que puedan ser revisados e integrados en el repositorio principal.
-
